@@ -1,0 +1,1 @@
+INSERT INTO restaurante (id, cep, tipo_de_cozinha_id) values (1, '70238500', 1);
